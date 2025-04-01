@@ -31,6 +31,7 @@ pipeline-stage-view
 prometheus
 purge-build-queue-plugin
 remote-file
+http_request
 role-strategy
 script-security
 simple-theme-plugin
