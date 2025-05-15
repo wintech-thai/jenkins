@@ -10,6 +10,7 @@ configuration-as-code
 credentials
 credentials-binding
 docker-workflow
+file-operations
 git
 hashicorp-vault-plugin
 jackson2-api
